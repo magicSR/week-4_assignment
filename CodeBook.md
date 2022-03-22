@@ -1,5 +1,7 @@
 Data is "Human Activity Recognition Using Smartphones Dataset Version 1.0"
+
 Site Link is "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"
+
 Data link is "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 
 
